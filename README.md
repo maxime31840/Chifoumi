@@ -14,7 +14,7 @@ L'ordinateur peut parfois se montrer rusé et tricher s'il est en retard au scor
 Clonez ce dépôt avec :
 
 bash
-git clone https://github.com/votre-utilisateur/chifoumi.git
+git clone https://github.com/maxime31840/chifoumi.git
 cd chifoumi
 
 2️⃣ Exécutez le jeu
